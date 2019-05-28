@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dolan-Jeh</string>
+
+    //custom
+    <string name="tunggu">Harap Menunggu...</string>
+    <string name="list">List</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="grid">Grid</string>
+    <string name="titleList">Wisata - Mode List</string>
+    <string name="titleGrid">Wisata - Mode Grid</string>
+    <string name="titleCard">Wisata - Mode CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+</resources>
